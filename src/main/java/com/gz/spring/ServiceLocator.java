@@ -11,7 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * Filename:    ServiceLocator  //文件名
  * Description:   //文件描述
  * Copyright:   //版权说明
- * Company:     zebone//公司
+ * Company:     //公司
  *
  * @author: gongyy//作者
  * @version: v1.0//版本
